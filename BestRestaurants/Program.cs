@@ -1,7 +1,7 @@
 using System.IO;
 using Microsoft.AspNetCore.Hosting;
 
-namespace BestRestaurants
+namespace //BestRestaurants
 {
     public class Program
     {
